@@ -1,1 +1,1 @@
-# hello-world
+# hello. Я Василий. Сейчас разбираюсь с GitHubom.
